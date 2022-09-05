@@ -1,16 +1,28 @@
-body{
+body {
     margin: 0px;
     padding: 0px;
-background-image:url() ;
+    background-image: url();
 }
 
-.main{
-    margin-left:350px ;
+.del {
+    background-color: aquamarine;
+    color: black;
+}
+
+.main {
+    margin-left: 350px;
     margin-top: 40px;
 }
-.heading{
+
+.heading {
     margin-left: 499px;
 }
+
+.edit {
+    background-color: aquamarine;
+    color: black
+}
+
 /* @media only screen and (max-width: 480px) {
     .main{
         display: flex;
